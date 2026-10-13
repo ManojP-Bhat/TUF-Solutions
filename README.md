@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 1 | 0 | 0 | `2026-10-13` |
+| **2** | 2 | 0 | 0 | `2026-10-13` |
 
 ---
 
@@ -17,6 +17,12 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-10-13` |
+
+### SQL (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [Big Countries](./SQL/Querying-Essentials/big-countries) | [SQL](./SQL/Querying-Essentials/big-countries/solution.sql) | 🟢 Easy | `Querying-Essentials` | `2026-10-13` |
 
 ---
 
