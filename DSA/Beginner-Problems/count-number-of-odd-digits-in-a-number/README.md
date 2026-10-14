@@ -1,0 +1,53 @@
+# [Count number of odd digits in a number](https://takeuforward.org/practice/dsa/count-number-of-odd-digits-in-a-number?category=basic-maths&source=strivers-a2z-dsa-sheet)
+
+![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
+
+---
+
+## 📝 Problem Statement
+
+You are given an integer **n** . You need to **return** the **number** of **odd** digits present in the number.
+
+The number will have **no** leading zeroes, except when the number is **0** itself.
+
+### Example 1:
+
+**Input:** n = 5
+
+**Output:** 1
+
+**Explanation:** 5 is an odd digit.
+
+### Example 2:
+
+**Input:** n = 25
+
+**Output:** 1
+
+**Explanation:** The only odd digit in 25 is 5.
+
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
+
+### Constraints
+
+- 0 <= n <= 5000
+- n will contain no leading zeroes except when it is 0 itself.
+
+---
+
+## 💡 Complexity Analysis
+
+- **Time Complexity:** $\mathcal{O}(N)$
+- **Space Complexity:** $\mathcal{O}(1)$
+
+---
+
+<p align="center">
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+</p>
