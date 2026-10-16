@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **31** | 17 | 14 | 0 | `2026-10-16` |
+| **32** | 18 | 14 | 0 | `2026-10-16` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (27)
+### DSA (28)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -27,23 +27,24 @@
 | 0009 | [GCD of Two Numbers](./DSA/Beginner-Problems/gcd-of-two-numbers) | [JAVA](./DSA/Beginner-Problems/gcd-of-two-numbers/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
 | 0010 | [Highest Occurring Element in an Array](./DSA/Beginner-Problems/highest-occurring-element-in-an-array) | [JAVA](./DSA/Beginner-Problems/highest-occurring-element-in-an-array/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-15` |
 | 0011 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0012 | [LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [Solution-2](./DSA/Beginner-Problems/lcm-of-two-numbers/Solution-2.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
-| 0013 | [512. Leaders in an Array
+| 0012 | [Isomorphic Strings](./DSA/Beginner-Problems/isomorphic-string) | [JAVA](./DSA/Beginner-Problems/isomorphic-string/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
+| 0013 | [LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [Solution-2](./DSA/Beginner-Problems/lcm-of-two-numbers/Solution-2.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
+| 0014 | [512. Leaders in an Array
 POTD](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0014 | [Longest Common Prefix](./DSA/Beginner-Problems/longest-common-prefix) | [JAVA](./DSA/Beginner-Problems/longest-common-prefix/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0015 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
-| 0016 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-10-13` |
-| 0017 | [Palindrome Check](./DSA/Beginner-Problems/palindrome-check) | [JAVA](./DSA/Beginner-Problems/palindrome-check/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0018 | [Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [JAVA](./DSA/Beginner-Problems/palindrome-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
-| 0019 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-10-14` |
-| 0020 | [Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
-| 0021 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
-| 0022 | [Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
-| 0023 | [Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
-| 0024 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0025 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
-| 0026 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0027 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0015 | [Longest Common Prefix](./DSA/Beginner-Problems/longest-common-prefix) | [JAVA](./DSA/Beginner-Problems/longest-common-prefix/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0016 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0017 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-10-13` |
+| 0018 | [Palindrome Check](./DSA/Beginner-Problems/palindrome-check) | [JAVA](./DSA/Beginner-Problems/palindrome-check/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0019 | [Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [JAVA](./DSA/Beginner-Problems/palindrome-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
+| 0020 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-10-14` |
+| 0021 | [Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
+| 0022 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
+| 0023 | [Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
+| 0024 | [Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
+| 0025 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0026 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
+| 0027 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0028 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
 
 ### SQL (4)
 
