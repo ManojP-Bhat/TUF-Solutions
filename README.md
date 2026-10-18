@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **50** | 24 | 26 | 0 | `2026-10-18` |
+| **51** | 24 | 27 | 0 | `2026-10-18` |
 
 ---
 
@@ -70,13 +70,14 @@ POTD](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-arra
 | 0005 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
 | 0006 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
 
-### Design (3)
+### Design (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Practice (Access Modifiers)](./Design/Core-Principles-Of-Oops/practice-access-modifiers) | [JAVA](./Design/Core-Principles-Of-Oops/practice-access-modifiers/solution.java) | 🟡 Medium | `Core-Principles-Of-Oops` | `2026-10-18` |
 | 0002 | [Practice (Attributes and Methods)](./Design/Introduction-To-Oops/practice-attributes-and-methods) | [JAVA](./Design/Introduction-To-Oops/practice-attributes-and-methods/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
 | 0003 | [Practice (Classes and Objects)](./Design/Introduction-To-Oops/practice-classes-and-objects) | [JAVA](./Design/Introduction-To-Oops/practice-classes-and-objects/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
+| 0004 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
 
 ---
 
