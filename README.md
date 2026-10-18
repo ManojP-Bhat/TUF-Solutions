@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **54** | 24 | 30 | 0 | `2026-10-18` |
+| **55** | 24 | 31 | 0 | `2026-10-18` |
 
 ---
 
@@ -61,7 +61,7 @@ POTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-st
 | 0041 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
 | 0042 | [Valid Anagram](./DSA/Beginner-Problems/valid-anagram) | [JAVA](./DSA/Beginner-Problems/valid-anagram/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
 
-### SQL (7)
+### SQL (8)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -72,6 +72,7 @@ POTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-st
 | 0005 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
 | 0006 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
 | 0007 | [Unique Subjects per Teacher](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0008 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
 
 ### Design (5)
 
