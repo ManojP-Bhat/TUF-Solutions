@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **47** | 24 | 23 | 0 | `2026-10-18` |
+| **48** | 24 | 24 | 0 | `2026-10-18` |
 
 ---
 
@@ -69,6 +69,12 @@ POTD](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-arra
 | 0004 | [First Login Analysis](./SQL/Aggregation-and-Analysis/first-login-analysis) | [SQL](./SQL/Aggregation-and-Analysis/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-and-Analysis` | `2026-10-17` |
 | 0005 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
 | 0006 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
+
+### Design (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [Practice (Access Modifiers)](./Design/Core-Principles-Of-Oops/practice-access-modifiers) | [JAVA](./Design/Core-Principles-Of-Oops/practice-access-modifiers/solution.java) | 🟡 Medium | `Core-Principles-Of-Oops` | `2026-10-18` |
 
 ---
 
