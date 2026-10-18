@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **45** | 23 | 22 | 0 | `2026-10-18` |
+| **46** | 23 | 23 | 0 | `2026-10-18` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (39)
+### DSA (40)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -50,12 +50,13 @@ POTD](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-arra
 | 0031 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
 | 0032 | [Rotate String](./DSA/Beginner-Problems/rotate-string) | [JAVA](./DSA/Beginner-Problems/rotate-string/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
 | 0033 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0034 | [Sort Characters by Frequency](./DSA/Beginner-Problems/sort-characters-by-frequency) | [JAVA](./DSA/Beginner-Problems/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
-| 0035 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
-| 0036 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
-| 0037 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0038 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0039 | [Valid Anagram](./DSA/Beginner-Problems/valid-anagram) | [JAVA](./DSA/Beginner-Problems/valid-anagram/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
+| 0034 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
+| 0035 | [Sort Characters by Frequency](./DSA/Beginner-Problems/sort-characters-by-frequency) | [JAVA](./DSA/Beginner-Problems/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
+| 0036 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
+| 0037 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
+| 0038 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0039 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0040 | [Valid Anagram](./DSA/Beginner-Problems/valid-anagram) | [JAVA](./DSA/Beginner-Problems/valid-anagram/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
 
 ### SQL (6)
 
