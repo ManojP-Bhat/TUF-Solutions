@@ -28,12 +28,11 @@ class Solution {
                 cnt2++;
             }
         }
-        int mini=n/3+1;
         List<Integer> result=new ArrayList<>();
-        if(cnt1>=mini){
+        if(cnt1>=n/3+1){
             result.add(ele1);
         }
-        if(cnt2>=mini&&ele1!=ele2){
+        if(cnt2>=n/3+1&&ele1!=ele2){
             result.add(ele2);
         }
         return result;

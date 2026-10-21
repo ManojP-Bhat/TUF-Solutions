@@ -1,4 +1,4 @@
-# [Majority Element-II](https://takeuforward.org/practice/dsa/majority-element-ii?category=faqs-hard&source=strivers-a2z-dsa-sheet&solution=optimal)
+# [Majority Element-II](https://takeuforward.org/practice/dsa/majority-element-ii?category=faqs-hard&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
