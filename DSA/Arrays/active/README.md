@@ -1,38 +1,45 @@
-# [Set difference of two arrays](https://takeuforward.org/practice/dsa/contest/275/active?source=strivers-a2z-dsa-sheet&category=arrays)
+# [Number of Jumps](https://takeuforward.org/practice/dsa/contest/275/active?source=strivers-a2z-dsa-sheet&category=arrays&ai=true&sidebar=0)
 
-![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 
 ## 📝 Problem Statement
 
-Given two sorted arrays **nums1** and **nums2** , return an array that contains the **set difference** of these two arrays. The elements in the set difference must be in ascending order.
+Given an array **nums** of n integers and an integer **k** , return the **total** number of jumps needed in the array.
 
-The **set difference** of two arrays is an array where all values are **distinct** and are present in either the first array or the second array, but **not** in both.
+An element **nums[i]** needs to jump another element **nums[j]** if:
+
+- **0 <= i < j <= n-1**
+- **nums[i] + k < nums[j]**
 
 ### Example 1:
 
-**Input:** nums1 = [1, 5, 7, 9], nums2 = [1, 3, 4, 7]
+**Input:** nums = [3, 1, 10, 6, 5], k = 2
 
-**Output:** [3, 4, 5, 9]
+**Output:** 5
 
 **Explanation:**
 
-[<u>3</u>, <u>4</u>, 5, 9] where,
+Number of jumps for each index:
 
-[3, 4] come from nums2 and [5, 9] comes from nums1.
+nums[0] -> 2, nums[1] -> 3, nums[2] -> 0, nums[3] -> 0, nums[4] -> 0
+
+Total = 2 + 3 + 0 + 0 + 0 = 5
 
 ### Example 2:
 
-**Input:** nums1 = [1, 2, 6, 6], nums2 = [-2, 2, 3, 4, 6]
+**Input:** nums = [1, 4, 5, 1, 7], k = 3
 
-**Output:** [-2, 1, 3, 4]
+**Output:** 3
 
 **Explanation:**
 
-[<u>-2</u>, 1, <u>3</u>, <u>4</u>] where,
+Number of jumps for each index:
 
-[1] comes from nums1 and [-2, 3, 4] from nums2.
+nums[0] -> 2, nums[1] -> 0, nums[2] -> 0, nums[3] -> 1, nums[4] -> 0
+
+Total = 2 + 0 + 0 + 1 + 0 = 3
 
 Still unsure what the problem is asking ?
 
@@ -40,9 +47,9 @@ Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
-- 1 <= nums1.length, nums2.length <= 10^5
-- -10^4 <= nums1[i] , nums2[i] <= 10^4
-- Both nums1 and nums2 are sorted in non-decreasing order
+- 1 <= n <= 10^5
+- -10^4 <= nums[i] <= 10^4
+- 0 <= k <= 10^4
 
 ---
 
