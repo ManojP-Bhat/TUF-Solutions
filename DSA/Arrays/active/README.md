@@ -1,4 +1,4 @@
-# [Maximum Consecutive Good Numbers](https://takeuforward.org/practice/dsa/contest/275/active?source=strivers-a2z-dsa-sheet&category=arrays)
+# [Set difference of two arrays](https://takeuforward.org/practice/dsa/contest/275/active?source=strivers-a2z-dsa-sheet&category=arrays)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
@@ -6,31 +6,33 @@
 
 ## 📝 Problem Statement
 
-Given an array of integers **nums** and an array g **oodNumbers** , return the **maximum** number of **consecutive** good numbers in the array.
+Given two sorted arrays **nums1** and **nums2** , return an array that contains the **set difference** of these two arrays. The elements in the set difference must be in ascending order.
 
-Any number present in the **goodNumbers** array is a good number.
+The **set difference** of two arrays is an array where all values are **distinct** and are present in either the first array or the second array, but **not** in both.
 
 ### Example 1:
 
-**Input:** nums = [1, 2, 3, 5, 4, 5, 1], goodNumbers = [3, 5]
+**Input:** nums1 = [1, 5, 7, 9], nums2 = [1, 3, 4, 7]
 
-**Output:** 2
+**Output:** [3, 4, 5, 9]
 
 **Explanation:**
 
-[1, 2, <u>3, 5</u>, 4, 5, 1] the underlined numbers are all good numbers and give the maximum length.
+[<u>3</u>, <u>4</u>, 5, 9] where,
+
+[3, 4] come from nums2 and [5, 9] comes from nums1.
 
 ### Example 2:
 
-**Input:** nums = [4, 8, 1, 2, 0, 4, 6], goodNumbers = [1, 4, 2, 6]
+**Input:** nums1 = [1, 2, 6, 6], nums2 = [-2, 2, 3, 4, 6]
 
-**Output:** 2
+**Output:** [-2, 1, 3, 4]
 
 **Explanation:**
 
-[4, 8, <u>1, 2</u>, 0, 4, 6] the underlined numbers are all good numbers and give the maximum length.
+[<u>-2</u>, 1, <u>3</u>, <u>4</u>] where,
 
-Note that the segment with index **[5, 6]** (0 - Based) was also a possible answer.
+[1] comes from nums1 and [-2, 3, 4] from nums2.
 
 Still unsure what the problem is asking ?
 
@@ -38,9 +40,9 @@ Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
-- 1 <= nums.length <= 10^5
-- 1 <= goodNumbers.length <= 10^5
-- -10^4 <= nums[i], goodNumbers[i] <= 10^4
+- 1 <= nums1.length, nums2.length <= 10^5
+- -10^4 <= nums1[i] , nums2[i] <= 10^4
+- Both nums1 and nums2 are sorted in non-decreasing order
 
 ---
 
