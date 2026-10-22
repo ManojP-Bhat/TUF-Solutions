@@ -1,12 +1,17 @@
 class Solution {
     public boolean isConsecutive(int[] nums) {
-        int n=nums.length;
-       Arrays.sort(nums);
-       for(int i=1;i<n;i++){
-        if(nums[i]-nums[i-1]!=1){
+       int n=nums.length;
+       int min=Integer.MAX_VALUE;
+       int max=Integer.MIN_VALUE;
+       HashSet<Integer> set=new HashSet<>();
+       for(int num:nums){
+        if(set.contains(num)){
             return false;
         }
+        set.add(num);
+        min=Math.min(min,num);
+        max=Math.max(max,num);
        }
-       return true;
+       return max-min+1==n;
     }
 }
