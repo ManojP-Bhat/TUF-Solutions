@@ -1,4 +1,4 @@
-# [Longest Consecutive Sequence in an Array](https://takeuforward.org/practice/dsa/longest-consecutive-sequence-in-an-array?category=faqs&source=strivers-a2z-dsa-sheet&solution=better)
+# [Longest Consecutive Sequence in an Array](https://takeuforward.org/practice/dsa/longest-consecutive-sequence-in-an-array?category=faqs&source=strivers-a2z-dsa-sheet&solution=optimal)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
