@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **81** | 25 | 52 | 4 | `2026-10-23` |
+| **81** | 25 | 52 | 4 | `2026-10-24` |
 
 ---
 
@@ -18,7 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [3 Sum](./DSA/Arrays/3-sum) | [JAVA](./DSA/Arrays/3-sum/solution.java) | 🟡 Medium | `Arrays` | `2026-10-19` |
 | 0002 | [4 Sum](./DSA/Arrays/4-sum) | [JAVA](./DSA/Arrays/4-sum/solution.java) | 🔴 Hard | `Arrays` | `2026-10-19` |
-| 0003 | [Number of Jumps](./DSA/Arrays/active) | [JAVA](./DSA/Arrays/active/solution.java) | 🔴 Hard | `Arrays` | `2026-10-21` |
+| 0003 | [Count of Subarrays with Sum Divisible by K](./DSA/Hashing/active) | [JAVA](./DSA/Hashing/active/solution.java) | 🟡 Medium | `Hashing` | `2026-10-24` |
 | 0004 | [Check for Prime Number](./DSA/Beginner-Problems/check-for-prime-number) | [JAVA](./DSA/Beginner-Problems/check-for-prime-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
 | 0005 | [716. Check if an Array Is Consecutive](./DSA/Arrays/check-if-an-array-is-consecutive) | [JAVA](./DSA/Arrays/check-if-an-array-is-consecutive/solution.java) | 🟢 Easy | `Arrays` | `2026-10-22` |
 | 0006 | [Check if the Array is Sorted I](./DSA/Beginner-Problems/check-if-the-array-is-sorted-i) | [JAVA](./DSA/Beginner-Problems/check-if-the-array-is-sorted-i/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
