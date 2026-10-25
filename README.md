@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **85** | 27 | 54 | 4 | `2026-10-25` |
+| **86** | 27 | 55 | 4 | `2026-10-25` |
 
 ---
 
@@ -103,7 +103,7 @@ POTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-st
 | 0014 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
 | 0015 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
 
-### Design (6)
+### Design (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -113,6 +113,7 @@ POTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-st
 | 0004 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
 | 0005 | [Practice (Encapsulation)](./Design/Core-Principles-Of-Oops/practice-encapsulation) | [JAVA](./Design/Core-Principles-Of-Oops/practice-encapsulation/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
 | 0006 | [Practice (Inheritance)](./Design/Core-Principles-Of-Oops/practice-inheritance) | [JAVA](./Design/Core-Principles-Of-Oops/practice-inheritance/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-20` |
+| 0007 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-25` |
 
 ---
 
