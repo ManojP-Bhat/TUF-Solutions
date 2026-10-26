@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **91** | 28 | 59 | 4 | `2026-10-26` |
+| **92** | 28 | 60 | 4 | `2026-10-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (68)
+### DSA (69)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -32,60 +32,61 @@
 | 0014 | [Divisors of a Number](./DSA/Beginner-Problems/divisors-of-a-number) | [JAVA](./DSA/Beginner-Problems/divisors-of-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
 | 0015 | [Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [JAVA](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
 | 0016 | [Factorial of a Given Number](./DSA/Beginner-Problems/factorial-of-a-given-number-ii) | [JAVA](./DSA/Beginner-Problems/factorial-of-a-given-number-ii/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
-| 0017 | [Find the repeating and missing number](./DSA/Arrays/find-the-repeating-and-missing-number) | [JAVA](./DSA/Arrays/find-the-repeating-and-missing-number/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
-| 0018 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
-| 0019 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
-| 0020 | [GCD of Two Numbers](./DSA/Beginner-Problems/gcd-of-two-numbers) | [JAVA](./DSA/Beginner-Problems/gcd-of-two-numbers/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
-| 0021 | [Highest Occurring Element in an Array](./DSA/Beginner-Problems/highest-occurring-element-in-an-array) | [JAVA](./DSA/Beginner-Problems/highest-occurring-element-in-an-array/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-15` |
-| 0022 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0023 | [Isomorphic Strings](./DSA/Beginner-Problems/isomorphic-string) | [JAVA](./DSA/Beginner-Problems/isomorphic-string/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
-| 0024 | [Kadane's Algorithm](./DSA/Arrays/kadane's-algorithm) | [JAVA](./DSA/Arrays/kadane's-algorithm/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
-| 0025 | [Largest Subarray with Sum 0](./DSA/Hashing/largest-subarray-with-sum-0) | [JAVA](./DSA/Hashing/largest-subarray-with-sum-0/solution.java) | 🟡 Medium | `Hashing` | `2026-10-23` |
-| 0026 | [LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [Solution-2](./DSA/Beginner-Problems/lcm-of-two-numbers/Solution-2.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
-| 0027 | [512. Leaders in an Array
+| 0017 | [Find minimum in Rotated Sorted Array](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array) | [JAVA](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0018 | [Find the repeating and missing number](./DSA/Arrays/find-the-repeating-and-missing-number) | [JAVA](./DSA/Arrays/find-the-repeating-and-missing-number/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
+| 0019 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0020 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0021 | [GCD of Two Numbers](./DSA/Beginner-Problems/gcd-of-two-numbers) | [JAVA](./DSA/Beginner-Problems/gcd-of-two-numbers/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
+| 0022 | [Highest Occurring Element in an Array](./DSA/Beginner-Problems/highest-occurring-element-in-an-array) | [JAVA](./DSA/Beginner-Problems/highest-occurring-element-in-an-array/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-15` |
+| 0023 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0024 | [Isomorphic Strings](./DSA/Beginner-Problems/isomorphic-string) | [JAVA](./DSA/Beginner-Problems/isomorphic-string/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
+| 0025 | [Kadane's Algorithm](./DSA/Arrays/kadane's-algorithm) | [JAVA](./DSA/Arrays/kadane's-algorithm/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
+| 0026 | [Largest Subarray with Sum 0](./DSA/Hashing/largest-subarray-with-sum-0) | [JAVA](./DSA/Hashing/largest-subarray-with-sum-0/solution.java) | 🟡 Medium | `Hashing` | `2026-10-23` |
+| 0027 | [LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [Solution-2](./DSA/Beginner-Problems/lcm-of-two-numbers/Solution-2.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
+| 0028 | [512. Leaders in an Array
 POTD](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0028 | [Longest Common Prefix](./DSA/Beginner-Problems/longest-common-prefix) | [JAVA](./DSA/Beginner-Problems/longest-common-prefix/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0029 | [Longest Consecutive Sequence in an Array](./DSA/Hashing/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Hashing/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `Hashing` | `2026-10-22` |
-| 0030 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [JAVA](./DSA/Hashing/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `Hashing` | `2026-10-23` |
-| 0031 | [Lower Bound](./DSA/Binary-Search/lower-bound-) | [JAVA](./DSA/Binary-Search/lower-bound-/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-25` |
-| 0032 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
-| 0033 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
-| 0034 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
-| 0035 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
-| 0036 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-10-13` |
-| 0037 | [Next Permutation](./DSA/Arrays/next-permutation) | [JAVA](./DSA/Arrays/next-permutation/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
-| 0038 | [Palindrome Check](./DSA/Beginner-Problems/palindrome-check) | [JAVA](./DSA/Beginner-Problems/palindrome-check/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0039 | [Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [JAVA](./DSA/Beginner-Problems/palindrome-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
-| 0040 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
-| 0041 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
-| 0042 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
-| 0043 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
-| 0044 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
-| 0045 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-10-14` |
-| 0046 | [Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
-| 0047 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
-| 0048 | [1027. Reverse a Stack
+| 0029 | [Longest Common Prefix](./DSA/Beginner-Problems/longest-common-prefix) | [JAVA](./DSA/Beginner-Problems/longest-common-prefix/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0030 | [Longest Consecutive Sequence in an Array](./DSA/Hashing/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Hashing/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `Hashing` | `2026-10-22` |
+| 0031 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [JAVA](./DSA/Hashing/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `Hashing` | `2026-10-23` |
+| 0032 | [Lower Bound](./DSA/Binary-Search/lower-bound-) | [JAVA](./DSA/Binary-Search/lower-bound-/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-25` |
+| 0033 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0034 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
+| 0035 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
+| 0036 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
+| 0037 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-10-13` |
+| 0038 | [Next Permutation](./DSA/Arrays/next-permutation) | [JAVA](./DSA/Arrays/next-permutation/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
+| 0039 | [Palindrome Check](./DSA/Beginner-Problems/palindrome-check) | [JAVA](./DSA/Beginner-Problems/palindrome-check/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0040 | [Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [JAVA](./DSA/Beginner-Problems/palindrome-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
+| 0041 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
+| 0042 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
+| 0043 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
+| 0044 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
+| 0045 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
+| 0046 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-10-14` |
+| 0047 | [Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
+| 0048 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
+| 0049 | [1027. Reverse a Stack
 POTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-stack/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-18` |
-| 0049 | [Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
-| 0050 | [Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
-| 0051 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [JAVA](./DSA/Arrays/reverse-pairs/solution.java) | 🔴 Hard | `Arrays` | `2026-10-21` |
-| 0052 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
-| 0053 | [Rotate String](./DSA/Beginner-Problems/rotate-string) | [JAVA](./DSA/Beginner-Problems/rotate-string/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
-| 0054 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
-| 0055 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
-| 0056 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
-| 0057 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
-| 0058 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0059 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
-| 0060 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
-| 0061 | [Sort Characters by Frequency](./DSA/Beginner-Problems/sort-characters-by-frequency) | [JAVA](./DSA/Beginner-Problems/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
-| 0062 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
-| 0063 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
-| 0064 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0065 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-10-18` |
-| 0066 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0067 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-25` |
-| 0068 | [Valid Anagram](./DSA/Beginner-Problems/valid-anagram) | [JAVA](./DSA/Beginner-Problems/valid-anagram/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
+| 0050 | [Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
+| 0051 | [Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
+| 0052 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [JAVA](./DSA/Arrays/reverse-pairs/solution.java) | 🔴 Hard | `Arrays` | `2026-10-21` |
+| 0053 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
+| 0054 | [Rotate String](./DSA/Beginner-Problems/rotate-string) | [JAVA](./DSA/Beginner-Problems/rotate-string/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
+| 0055 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0056 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0057 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
+| 0058 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
+| 0059 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0060 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
+| 0061 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
+| 0062 | [Sort Characters by Frequency](./DSA/Beginner-Problems/sort-characters-by-frequency) | [JAVA](./DSA/Beginner-Problems/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
+| 0063 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
+| 0064 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
+| 0065 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0066 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-10-18` |
+| 0067 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0068 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-25` |
+| 0069 | [Valid Anagram](./DSA/Beginner-Problems/valid-anagram) | [JAVA](./DSA/Beginner-Problems/valid-anagram/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
 
 ### SQL (16)
 
