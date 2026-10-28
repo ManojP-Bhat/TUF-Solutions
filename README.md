@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **97** | 28 | 65 | 4 | `2026-10-28` |
+| **98** | 28 | 66 | 4 | `2026-10-28` |
 
 ---
 
@@ -114,7 +114,7 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0015 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
 | 0016 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
 
-### Design (8)
+### Design (9)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -125,7 +125,8 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0005 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
 | 0006 | [Practice (Encapsulation)](./Design/Core-Principles-Of-Oops/practice-encapsulation) | [JAVA](./Design/Core-Principles-Of-Oops/practice-encapsulation/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
 | 0007 | [Practice (Inheritance)](./Design/Core-Principles-Of-Oops/practice-inheritance) | [JAVA](./Design/Core-Principles-Of-Oops/practice-inheritance/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-20` |
-| 0008 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-25` |
+| 0008 | [Practice (Interfaces)](./Design/Advance-Oops-Features/practice-interfaces) | [JAVA](./Design/Advance-Oops-Features/practice-interfaces/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-28` |
+| 0009 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-25` |
 
 ---
 
