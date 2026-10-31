@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **105** | 29 | 71 | 5 | `2026-10-31` |
+| **106** | 29 | 72 | 5 | `2026-10-31` |
 
 ---
 
@@ -121,7 +121,7 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0015 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
 | 0016 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
 
-### Design (11)
+### Design (12)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -129,13 +129,14 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0002 | [Practice (Access Modifiers)](./Design/Core-Principles-Of-Oops/practice-access-modifiers) | [JAVA](./Design/Core-Principles-Of-Oops/practice-access-modifiers/solution.java) | 🟡 Medium | `Core-Principles-Of-Oops` | `2026-10-18` |
 | 0003 | [Practice (Attributes and Methods)](./Design/Introduction-To-Oops/practice-attributes-and-methods) | [JAVA](./Design/Introduction-To-Oops/practice-attributes-and-methods/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
 | 0004 | [Practice (Classes and Objects)](./Design/Introduction-To-Oops/practice-classes-and-objects) | [JAVA](./Design/Introduction-To-Oops/practice-classes-and-objects/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
-| 0005 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
-| 0006 | [Practice (Encapsulation)](./Design/Core-Principles-Of-Oops/practice-encapsulation) | [JAVA](./Design/Core-Principles-Of-Oops/practice-encapsulation/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
-| 0007 | [Practice (Inheritance)](./Design/Core-Principles-Of-Oops/practice-inheritance) | [JAVA](./Design/Core-Principles-Of-Oops/practice-inheritance/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-20` |
-| 0008 | [Practice (Inner classes)](./Design/Advance-Oops-Features/practice-inner-classes) | [JAVA](./Design/Advance-Oops-Features/practice-inner-classes/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-30` |
-| 0009 | [Practice (Interfaces)](./Design/Advance-Oops-Features/practice-interfaces) | [JAVA](./Design/Advance-Oops-Features/practice-interfaces/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-28` |
-| 0010 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-25` |
-| 0011 | [Practice (Static Keyword)](./Design/Advance-Oops-Features/practice-static-keyword) | [JAVA](./Design/Advance-Oops-Features/practice-static-keyword/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-29` |
+| 0005 | [Practice (Composition)](./Design/Relationships-And-Object-Behaviour/practice-composition) | [JAVA](./Design/Relationships-And-Object-Behaviour/practice-composition/solution.java) | ⚪ Unspecified | `Relationships-And-Object-Behaviour` | `2026-10-31` |
+| 0006 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | ⚪ Unspecified | `Introduction-To-Oops` | `2026-10-18` |
+| 0007 | [Practice (Encapsulation)](./Design/Core-Principles-Of-Oops/practice-encapsulation) | [JAVA](./Design/Core-Principles-Of-Oops/practice-encapsulation/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-18` |
+| 0008 | [Practice (Inheritance)](./Design/Core-Principles-Of-Oops/practice-inheritance) | [JAVA](./Design/Core-Principles-Of-Oops/practice-inheritance/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-20` |
+| 0009 | [Practice (Inner classes)](./Design/Advance-Oops-Features/practice-inner-classes) | [JAVA](./Design/Advance-Oops-Features/practice-inner-classes/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-30` |
+| 0010 | [Practice (Interfaces)](./Design/Advance-Oops-Features/practice-interfaces) | [JAVA](./Design/Advance-Oops-Features/practice-interfaces/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-28` |
+| 0011 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-25` |
+| 0012 | [Practice (Static Keyword)](./Design/Advance-Oops-Features/practice-static-keyword) | [JAVA](./Design/Advance-Oops-Features/practice-static-keyword/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-29` |
 
 ---
 
