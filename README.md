@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **111** | 29 | 76 | 6 | `2026-11-01` |
+| **112** | 29 | 77 | 6 | `2026-11-01` |
 
 ---
 
@@ -101,7 +101,7 @@ POTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-st
 | 0079 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | 🟢 Easy | `Strings` | `2026-10-27` |
 
-### SQL (20)
+### SQL (21)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -111,20 +111,21 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0004 | [CRM Automotive Sales Analysis](./SQL/Aggregation-and-Analysis/crm-automotive-sales-analysis) | [SQL](./SQL/Aggregation-and-Analysis/crm-automotive-sales-analysis/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
 | 0005 | [Email Duplicates](./SQL/Aggregation-and-Analysis/email-duplicates) | [SQL](./SQL/Aggregation-and-Analysis/email-duplicates/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
 | 0006 | [Employee Work Time Summary](./SQL/Aggregation-and-Analysis/employee-work-time-summary) | [SQL](./SQL/Aggregation-and-Analysis/employee-work-time-summary/solution.sql) | 🟢 Easy | `Aggregation-and-Analysis` | `2026-10-17` |
-| 0007 | [Filter Records Excluding a Specific Pattern](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern) | [SQL](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern/solution.sql) | 🟢 Easy | `Problem-Level-1-Filtering-Essentials` | `2026-10-15` |
-| 0008 | [First Login Analysis](./SQL/Aggregation-and-Analysis/first-login-analysis) | [SQL](./SQL/Aggregation-and-Analysis/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-and-Analysis` | `2026-10-17` |
-| 0009 | [Frequent Actor-Director Duos](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0010 | [Highest Order Placing Customer](./SQL/Aggregation-and-Analysis/highest-order-placing-customer) | [SQL](./SQL/Aggregation-and-Analysis/highest-order-placing-customer/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0011 | [Instant Food Delivery](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery) | [SQL](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery/solution.sql) | 🟢 Easy | `Problems-Level-1-Case-Conditional-Logic` | `2026-10-25` |
-| 0012 | [Large Classes](./SQL/Aggregation-and-Analysis/large-classes) | [SQL](./SQL/Aggregation-and-Analysis/large-classes/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0013 | [Node Classification](./SQL/Functions-Math-and-Conditional/node-classification) | [SQL](./SQL/Functions-Math-and-Conditional/node-classification/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0014 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
-| 0015 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
-| 0016 | [Query Quality Analysis](./SQL/Functions-Math-and-Conditional/query-quality-analysis) | [SQL](./SQL/Functions-Math-and-Conditional/query-quality-analysis/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0017 | [Special Bonus Calculation](./SQL/Functions-Math-and-Conditional/special-bonus-calculation) | [SQL](./SQL/Functions-Math-and-Conditional/special-bonus-calculation/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0018 | [Unique Subjects per Teacher](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0019 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
-| 0020 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
+| 0007 | [Exceeding Tweet Length](./SQL/Functions-Math-and-Conditional/exceeding-tweet-length) | [SQL](./SQL/Functions-Math-and-Conditional/exceeding-tweet-length/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0008 | [Filter Records Excluding a Specific Pattern](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern) | [SQL](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern/solution.sql) | 🟢 Easy | `Problem-Level-1-Filtering-Essentials` | `2026-10-15` |
+| 0009 | [First Login Analysis](./SQL/Aggregation-and-Analysis/first-login-analysis) | [SQL](./SQL/Aggregation-and-Analysis/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-and-Analysis` | `2026-10-17` |
+| 0010 | [Frequent Actor-Director Duos](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0011 | [Highest Order Placing Customer](./SQL/Aggregation-and-Analysis/highest-order-placing-customer) | [SQL](./SQL/Aggregation-and-Analysis/highest-order-placing-customer/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0012 | [Instant Food Delivery](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery) | [SQL](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery/solution.sql) | 🟢 Easy | `Problems-Level-1-Case-Conditional-Logic` | `2026-10-25` |
+| 0013 | [Large Classes](./SQL/Aggregation-and-Analysis/large-classes) | [SQL](./SQL/Aggregation-and-Analysis/large-classes/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0014 | [Node Classification](./SQL/Functions-Math-and-Conditional/node-classification) | [SQL](./SQL/Functions-Math-and-Conditional/node-classification/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0015 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
+| 0016 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
+| 0017 | [Query Quality Analysis](./SQL/Functions-Math-and-Conditional/query-quality-analysis) | [SQL](./SQL/Functions-Math-and-Conditional/query-quality-analysis/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0018 | [Special Bonus Calculation](./SQL/Functions-Math-and-Conditional/special-bonus-calculation) | [SQL](./SQL/Functions-Math-and-Conditional/special-bonus-calculation/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0019 | [Unique Subjects per Teacher](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0020 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
+| 0021 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
 
 ### Design (12)
 
