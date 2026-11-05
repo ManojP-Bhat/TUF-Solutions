@@ -59,8 +59,7 @@ POTD](./DSA/General/find-row-with-maximum-1's) | [JAVA](./DSA/General/find-row-w
 | 0038 | [Kadane's Algorithm](./DSA/Arrays/kadane's-algorithm) | [JAVA](./DSA/Arrays/kadane's-algorithm/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
 | 0039 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-31` |
 | 0040 | [Kth Missing Positive Number](./DSA/Binary-Search/kth-missing-positive-number) | [JAVA](./DSA/Binary-Search/kth-missing-positive-number/solution.java) | 🔴 Hard | `Binary-Search` | `2026-11-01` |
-| 0041 | [702. Largest Element
-POTD](./DSA/General/largest-element) | [JAVA](./DSA/General/largest-element/solution.java) | 🟢 Easy | `General` | `2026-11-02` |
+| 0041 | [Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-11-05` |
 | 0042 | [Largest Subarray with Sum 0](./DSA/Hashing/largest-subarray-with-sum-0) | [JAVA](./DSA/Hashing/largest-subarray-with-sum-0/solution.java) | 🟡 Medium | `Hashing` | `2026-10-23` |
 | 0043 | [LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [Solution-2](./DSA/Beginner-Problems/lcm-of-two-numbers/Solution-2.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
 | 0044 | [512. Leaders in an Array
