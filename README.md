@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **131** | 32 | 86 | 13 | `2026-11-07` |
+| **131** | 32 | 86 | 13 | `2026-11-08` |
 
 ---
 
@@ -72,7 +72,7 @@ POTD](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-arra
 | 0050 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
 | 0051 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
 | 0052 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `Binary-Search` | `2026-11-05` |
-| 0053 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-11-07` |
+| 0053 | [Maximum Nesting Depth of the Parentheses](./DSA/Hashing/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Hashing/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Hashing` | `2026-11-08` |
 | 0054 | [285. Maximum Product of Three Numbers
 POTD](./DSA/General/maximum-product-of-three-numbers) | [JAVA](./DSA/General/maximum-product-of-three-numbers/solution.java) | 🟢 Easy | `General` | `2026-10-30` |
 | 0055 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
