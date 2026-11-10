@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **137** | 34 | 90 | 13 | `2026-11-10` |
+| **138** | 34 | 91 | 13 | `2026-11-10` |
 
 ---
 
@@ -155,7 +155,7 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0022 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
 | 0023 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
 
-### Design (12)
+### Design (13)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -169,8 +169,9 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0008 | [Practice (Inheritance)](./Design/Core-Principles-Of-Oops/practice-inheritance) | [JAVA](./Design/Core-Principles-Of-Oops/practice-inheritance/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-20` |
 | 0009 | [Practice (Inner classes)](./Design/Advance-Oops-Features/practice-inner-classes) | [JAVA](./Design/Advance-Oops-Features/practice-inner-classes/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-30` |
 | 0010 | [Practice (Interfaces)](./Design/Advance-Oops-Features/practice-interfaces) | [JAVA](./Design/Advance-Oops-Features/practice-interfaces/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-28` |
-| 0011 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-25` |
-| 0012 | [Practice (Static Keyword)](./Design/Advance-Oops-Features/practice-static-keyword) | [JAVA](./Design/Advance-Oops-Features/practice-static-keyword/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-29` |
+| 0011 | [Practice (Object Cloning)](./Design/Relationships-and-Object-Behaviour/practice-object-cloning) | [JAVA](./Design/Relationships-and-Object-Behaviour/practice-object-cloning/solution.java) | ⚪ Unspecified | `Relationships-and-Object-Behaviour` | `2026-11-10` |
+| 0012 | [Practice (Polymorphism)](./Design/Core-Principles-Of-Oops/practice-polymorphism) | [JAVA](./Design/Core-Principles-Of-Oops/practice-polymorphism/solution.java) | ⚪ Unspecified | `Core-Principles-Of-Oops` | `2026-10-25` |
+| 0013 | [Practice (Static Keyword)](./Design/Advance-Oops-Features/practice-static-keyword) | [JAVA](./Design/Advance-Oops-Features/practice-static-keyword/solution.java) | ⚪ Unspecified | `Advance-Oops-Features` | `2026-10-29` |
 
 ---
 
