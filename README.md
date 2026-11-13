@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **150** | 41 | 96 | 13 | `2026-11-13` |
+| **151** | 42 | 96 | 13 | `2026-11-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (112)
+### DSA (113)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -97,47 +97,48 @@ POTD](./DSA/General/maximum-product-of-three-numbers) | [JAVA](./DSA/General/max
 | 0072 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
 | 0073 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
 | 0074 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-17` |
-| 0075 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%25252525252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%25252525252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
-| 0076 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%252525252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%252525252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
-| 0077 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%2525252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%2525252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
-| 0078 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%25252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%25252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
-| 0079 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%252cn)) | [JAVA](./DSA/Implementation-Problems/pow(x%252cn)/solution.java) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
-| 0080 | [Power Set](./DSA/Recursion/power-set) | [JAVA](./DSA/Recursion/power-set/solution.java) | 🟡 Medium | `Recursion` | `2026-11-11` |
-| 0081 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
-| 0082 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
-| 0083 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-10-14` |
-| 0084 | [Remove Outermost Parentheses](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-11-06` |
-| 0085 | [Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
-| 0086 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
-| 0087 | [Reverse a Stack](./DSA/Recursion/reverse-a-stack) | [JAVA](./DSA/Recursion/reverse-a-stack/solution.java) | 🟡 Medium | `Recursion` | `2026-11-12` |
-| 0088 | [Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
-| 0089 | [Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
-| 0090 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [JAVA](./DSA/Arrays/reverse-pairs/solution.java) | 🔴 Hard | `Arrays` | `2026-10-21` |
-| 0091 | [Roman to Integer](./DSA/Strings-Basic-and-Medium/roman-to-integer) | [JAVA](./DSA/Strings-Basic-and-Medium/roman-to-integer/solution.java) | 🟢 Easy | `Strings-Basic-and-Medium` | `2026-11-09` |
-| 0092 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
-| 0093 | [Rotate String](./DSA/Beginner-Problems/rotate-string) | [JAVA](./DSA/Beginner-Problems/rotate-string/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
-| 0094 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-11-04` |
-| 0095 | [Search in a 2D Matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🟡 Medium | `Binary-Search` | `2026-11-04` |
-| 0096 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
-| 0097 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
-| 0098 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
-| 0099 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
-| 0100 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0101 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
-| 0102 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-27` |
-| 0103 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
-| 0104 | [Sort Characters by Frequency](./DSA/Beginner-Problems/sort-characters-by-frequency) | [JAVA](./DSA/Beginner-Problems/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
-| 0105 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-11-09` |
-| 0106 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
-| 0107 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
-| 0108 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
-| 0109 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-10-18` |
-| 0110 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
-| 0111 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-25` |
-| 0112 | [52. Valid Anagram
+| 0075 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%2525252525252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%2525252525252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
+| 0076 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%25252525252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%25252525252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
+| 0077 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%252525252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%252525252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
+| 0078 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%2525252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%2525252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
+| 0079 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%25252cn) | [pow(x%2cn](./DSA/Implementation-Problems/pow(x%25252cn/pow(x%252cn) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
+| 0080 | [Pow(x%2Cn)](./DSA/Implementation-Problems/pow(x%252cn)) | [JAVA](./DSA/Implementation-Problems/pow(x%252cn)/solution.java) | ⚪ Unspecified | `Implementation-Problems` | `2026-11-10` |
+| 0081 | [Power Set](./DSA/Recursion/power-set) | [JAVA](./DSA/Recursion/power-set/solution.java) | 🟡 Medium | `Recursion` | `2026-11-11` |
+| 0082 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
+| 0083 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
+| 0084 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-10-14` |
+| 0085 | [Remove Outermost Parentheses](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-11-06` |
+| 0086 | [Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [JAVA](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-14` |
+| 0087 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [JAVA](./DSA/Beginner-Problems/reverse-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
+| 0088 | [Reverse a Stack](./DSA/Recursion/reverse-a-stack) | [JAVA](./DSA/Recursion/reverse-a-stack/solution.java) | 🟡 Medium | `Recursion` | `2026-11-12` |
+| 0089 | [Reverse a String II](./DSA/Beginner-Problems/reverse-a-string-ii) | [JAVA](./DSA/Beginner-Problems/reverse-a-string-ii/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-16` |
+| 0090 | [Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [JAVA](./DSA/Beginner-Problems/reverse-an-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
+| 0091 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [JAVA](./DSA/Arrays/reverse-pairs/solution.java) | 🔴 Hard | `Arrays` | `2026-10-21` |
+| 0092 | [Roman to Integer](./DSA/Strings-Basic-and-Medium/roman-to-integer) | [JAVA](./DSA/Strings-Basic-and-Medium/roman-to-integer/solution.java) | 🟢 Easy | `Strings-Basic-and-Medium` | `2026-11-09` |
+| 0093 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
+| 0094 | [Rotate String](./DSA/Beginner-Problems/rotate-string) | [JAVA](./DSA/Beginner-Problems/rotate-string/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
+| 0095 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-11-04` |
+| 0096 | [Search in a 2D Matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🟡 Medium | `Binary-Search` | `2026-11-04` |
+| 0097 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0098 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0099 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
+| 0100 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
+| 0101 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0102 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-10-18` |
+| 0103 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-27` |
+| 0104 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | 🟡 Medium | `Arrays` | `2026-10-20` |
+| 0105 | [Sort Characters by Frequency](./DSA/Beginner-Problems/sort-characters-by-frequency) | [JAVA](./DSA/Beginner-Problems/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-17` |
+| 0106 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-11-09` |
+| 0107 | [Sum of Array Elements](./DSA/Beginner-Problems/sum-of-array-elements) | [JAVA](./DSA/Beginner-Problems/sum-of-array-elements/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-15` |
+| 0108 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [JAVA](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-17` |
+| 0109 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
+| 0110 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-10-18` |
+| 0111 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-14` |
+| 0112 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-25` |
+| 0113 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | 🟢 Easy | `Strings` | `2026-10-27` |
 
-### SQL (29)
+### SQL (30)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -152,24 +153,25 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0009 | [Employee Salary](./SQL/Data-Modification-and-Schema-Evolution/employee-salary) | [SQL](./SQL/Data-Modification-and-Schema-Evolution/employee-salary/solution.sql) | ⚪ Unspecified | `Data-Modification-and-Schema-Evolution` | `2026-11-04` |
 | 0010 | [Employee Work Time Summary](./SQL/Aggregation-and-Analysis/employee-work-time-summary) | [SQL](./SQL/Aggregation-and-Analysis/employee-work-time-summary/solution.sql) | 🟢 Easy | `Aggregation-and-Analysis` | `2026-10-17` |
 | 0011 | [Employees and Their Departments](./SQL/SQL-Joins/employees-and-their-departments) | [SQL](./SQL/SQL-Joins/employees-and-their-departments/solution.sql) | 🟢 Easy | `SQL-Joins` | `2026-11-12` |
-| 0012 | [Exceeding Tweet Length](./SQL/Functions-Math-and-Conditional/exceeding-tweet-length) | [SQL](./SQL/Functions-Math-and-Conditional/exceeding-tweet-length/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0013 | [Filter Records Excluding a Specific Pattern](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern) | [SQL](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern/solution.sql) | 🟢 Easy | `Problem-Level-1-Filtering-Essentials` | `2026-10-15` |
-| 0014 | [First Login Analysis](./SQL/Aggregation-and-Analysis/first-login-analysis) | [SQL](./SQL/Aggregation-and-Analysis/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-and-Analysis` | `2026-10-17` |
-| 0015 | [Frequent Actor-Director Duos](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0016 | [Highest Order Placing Customer](./SQL/Aggregation-and-Analysis/highest-order-placing-customer) | [SQL](./SQL/Aggregation-and-Analysis/highest-order-placing-customer/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0017 | [Instant Food Delivery](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery) | [SQL](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery/solution.sql) | 🟢 Easy | `Problems-Level-1-Case-Conditional-Logic` | `2026-10-25` |
-| 0018 | [Large Classes](./SQL/Aggregation-and-Analysis/large-classes) | [SQL](./SQL/Aggregation-and-Analysis/large-classes/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0019 | [Merge Recent Orders from Multiple Sources](./SQL/Set-Operations/merge-recent-orders-from-multiple-sources) | [SQL](./SQL/Set-Operations/merge-recent-orders-from-multiple-sources/solution.sql) | 🟢 Easy | `Set-Operations` | `2026-11-11` |
-| 0020 | [Node Classification](./SQL/Functions-Math-and-Conditional/node-classification) | [SQL](./SQL/Functions-Math-and-Conditional/node-classification/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0021 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
-| 0022 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
-| 0023 | [Query Quality Analysis](./SQL/Functions-Math-and-Conditional/query-quality-analysis) | [SQL](./SQL/Functions-Math-and-Conditional/query-quality-analysis/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0024 | [Reshape Products Data](./SQL/Set-Operations/reshape-products-data) | [SQL](./SQL/Set-Operations/reshape-products-data/solution.sql) | 🟢 Easy | `Set-Operations` | `2026-11-11` |
-| 0025 | [Special Bonus Calculation](./SQL/Functions-Math-and-Conditional/special-bonus-calculation) | [SQL](./SQL/Functions-Math-and-Conditional/special-bonus-calculation/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0026 | [System Settings](./SQL/Data-Modification-and-Schema-Evolution/system-settings) | [SQL](./SQL/Data-Modification-and-Schema-Evolution/system-settings/solution.sql) | ⚪ Unspecified | `Data-Modification-and-Schema-Evolution` | `2026-11-04` |
-| 0027 | [Unique Subjects per Teacher](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0028 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
-| 0029 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
+| 0012 | [Employees With Confirmed Salary Records](./SQL/SQL-Joins/employees-with-confirmed-salary-records) | [SQL](./SQL/SQL-Joins/employees-with-confirmed-salary-records/solution.sql) | 🟢 Easy | `SQL-Joins` | `2026-11-13` |
+| 0013 | [Exceeding Tweet Length](./SQL/Functions-Math-and-Conditional/exceeding-tweet-length) | [SQL](./SQL/Functions-Math-and-Conditional/exceeding-tweet-length/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0014 | [Filter Records Excluding a Specific Pattern](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern) | [SQL](./SQL/Problem-Level-1-Filtering-Essentials/filter-records-excluding-a-specific-pattern/solution.sql) | 🟢 Easy | `Problem-Level-1-Filtering-Essentials` | `2026-10-15` |
+| 0015 | [First Login Analysis](./SQL/Aggregation-and-Analysis/first-login-analysis) | [SQL](./SQL/Aggregation-and-Analysis/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-and-Analysis` | `2026-10-17` |
+| 0016 | [Frequent Actor-Director Duos](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-and-Analysis/frequent-actor-director-duos/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0017 | [Highest Order Placing Customer](./SQL/Aggregation-and-Analysis/highest-order-placing-customer) | [SQL](./SQL/Aggregation-and-Analysis/highest-order-placing-customer/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0018 | [Instant Food Delivery](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery) | [SQL](./SQL/Problems-Level-1-Case-Conditional-Logic/instant-food-delivery/solution.sql) | 🟢 Easy | `Problems-Level-1-Case-Conditional-Logic` | `2026-10-25` |
+| 0019 | [Large Classes](./SQL/Aggregation-and-Analysis/large-classes) | [SQL](./SQL/Aggregation-and-Analysis/large-classes/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0020 | [Merge Recent Orders from Multiple Sources](./SQL/Set-Operations/merge-recent-orders-from-multiple-sources) | [SQL](./SQL/Set-Operations/merge-recent-orders-from-multiple-sources/solution.sql) | 🟢 Easy | `Set-Operations` | `2026-11-11` |
+| 0021 | [Node Classification](./SQL/Functions-Math-and-Conditional/node-classification) | [SQL](./SQL/Functions-Math-and-Conditional/node-classification/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0022 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
+| 0023 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-15` |
+| 0024 | [Query Quality Analysis](./SQL/Functions-Math-and-Conditional/query-quality-analysis) | [SQL](./SQL/Functions-Math-and-Conditional/query-quality-analysis/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0025 | [Reshape Products Data](./SQL/Set-Operations/reshape-products-data) | [SQL](./SQL/Set-Operations/reshape-products-data/solution.sql) | 🟢 Easy | `Set-Operations` | `2026-11-11` |
+| 0026 | [Special Bonus Calculation](./SQL/Functions-Math-and-Conditional/special-bonus-calculation) | [SQL](./SQL/Functions-Math-and-Conditional/special-bonus-calculation/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
+| 0027 | [System Settings](./SQL/Data-Modification-and-Schema-Evolution/system-settings) | [SQL](./SQL/Data-Modification-and-Schema-Evolution/system-settings/solution.sql) | ⚪ Unspecified | `Data-Modification-and-Schema-Evolution` | `2026-11-04` |
+| 0028 | [Unique Subjects per Teacher](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0029 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
+| 0030 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
 
 ### Design (13)
 
