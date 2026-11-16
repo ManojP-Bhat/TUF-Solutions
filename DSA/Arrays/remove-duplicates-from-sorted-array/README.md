@@ -1,4 +1,5 @@
-# [Remove duplicates from sorted array](https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array?category=logic-building&source=strivers-a2z-dsa-sheet&solution=brute)
+# [196. Remove duplicates from sorted array
+POTD](https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
@@ -41,6 +42,10 @@ There are 4 distinct elements in nums and the elements marked as _ can have any 
 Resulting array = [-2, 2, 4, 5, _, _, _, _]
 
 There are 4 distinct elements in nums and the elements marked as _ can have any value.
+
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
 
 Still unsure what the problem is asking ?
 
