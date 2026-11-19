@@ -16,7 +16,8 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [3 Sum](./DSA/Arrays/3-sum) | [JAVA](./DSA/Arrays/3-sum/solution.java) | 🟡 Medium | `Arrays` | `2026-10-19` |
+| 0001 | [21. 3 Sum
+POTD](./DSA/General/3-sum) | [JAVA](./DSA/General/3-sum/solution.java) | 🟡 Medium | `General` | `2026-11-19` |
 | 0002 | [4 Sum](./DSA/Arrays/4-sum) | [JAVA](./DSA/Arrays/4-sum/solution.java) | 🔴 Hard | `Arrays` | `2026-10-19` |
 | 0003 | [Group Words by Anagrams](./DSA/Hashing/active) | [JAVA](./DSA/Hashing/active/solution.java) | 🟡 Medium | `Hashing` | `2026-10-24` |
 | 0004 | [Aggressive Cows](./DSA/Binary-Search/aggressive-cows) | [JAVA](./DSA/Binary-Search/aggressive-cows/solution.java) | 🔴 Hard | `Binary-Search` | `2026-11-02` |
