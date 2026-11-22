@@ -1,4 +1,4 @@
-# [905. Deletion of the Kth element of Linked List](https://takeuforward.org/practice/dsa/deletion-of-the-kth-element-of-ll)
+# [Deletion of the Kth element of Linked List](https://takeuforward.org/practice/dsa/deletion-of-the-kth-element-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
