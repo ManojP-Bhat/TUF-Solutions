@@ -1,5 +1,3 @@
-SELECT 
-name,
-course
+SELECT name,course
 FROM Students
-NATURAL JOIN Enrollments;
+Natural Join Enrollments;
