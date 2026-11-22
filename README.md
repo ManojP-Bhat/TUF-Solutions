@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **163** | 47 | 103 | 13 | `2026-11-22` |
+| **164** | 48 | 103 | 13 | `2026-11-22` |
 
 ---
 
@@ -161,7 +161,7 @@ POTD](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/re
 | 0131 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | 🟢 Easy | `Strings` | `2026-10-27` |
 
-### SQL (34)
+### SQL (35)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -195,10 +195,11 @@ POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution
 | 0028 | [Query Quality Analysis](./SQL/Functions-Math-and-Conditional/query-quality-analysis) | [SQL](./SQL/Functions-Math-and-Conditional/query-quality-analysis/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
 | 0029 | [Reshape Products Data](./SQL/Set-Operations/reshape-products-data) | [SQL](./SQL/Set-Operations/reshape-products-data/solution.sql) | 🟢 Easy | `Set-Operations` | `2026-11-11` |
 | 0030 | [Special Bonus Calculation](./SQL/Functions-Math-and-Conditional/special-bonus-calculation) | [SQL](./SQL/Functions-Math-and-Conditional/special-bonus-calculation/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-11-01` |
-| 0031 | [System Settings](./SQL/Data-Modification-and-Schema-Evolution/system-settings) | [SQL](./SQL/Data-Modification-and-Schema-Evolution/system-settings/solution.sql) | ⚪ Unspecified | `Data-Modification-and-Schema-Evolution` | `2026-11-04` |
-| 0032 | [Unique Subjects per Teacher](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
-| 0033 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
-| 0034 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
+| 0031 | [Students Enrolled in Courses](./SQL/SQL-Joins/students-enrolled-in-courses) | [SQL](./SQL/SQL-Joins/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL-Joins` | `2026-11-22` |
+| 0032 | [System Settings](./SQL/Data-Modification-and-Schema-Evolution/system-settings) | [SQL](./SQL/Data-Modification-and-Schema-Evolution/system-settings/solution.sql) | ⚪ Unspecified | `Data-Modification-and-Schema-Evolution` | `2026-11-04` |
+| 0033 | [Unique Subjects per Teacher](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-and-Analysis/unique-subjects-per-teacher/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-18` |
+| 0034 | [User Follower Count](./SQL/Aggregation-and-Analysis/user-follower-count) | [SQL](./SQL/Aggregation-and-Analysis/user-follower-count/solution.sql) | ⚪ Unspecified | `Aggregation-and-Analysis` | `2026-10-26` |
+| 0035 | [Valid Triangle Check](./SQL/Functions-Math-and-Conditional/valid-triangle-check) | [SQL](./SQL/Functions-Math-and-Conditional/valid-triangle-check/solution.sql) | ⚪ Unspecified | `Functions-Math-and-Conditional` | `2026-10-22` |
 
 ### Design (13)
 
