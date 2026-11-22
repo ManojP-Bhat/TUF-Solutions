@@ -47,7 +47,7 @@ POTD](./DSA/General/count-of-prime-numbers-till-n) | [JAVA](./DSA/General/count-
 | 0025 | [163. Count subarrays with given xor K
 POTD](./DSA/Bit-Manipulation/count-subarrays-with-given-xor-k) | [JAVA](./DSA/Bit-Manipulation/count-subarrays-with-given-xor-k/solution.java) | 🔴 Hard | `Bit-Manipulation` | `2026-11-18` |
 | 0026 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.cpp) [JAVA](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-22` |
-| 0027 | [Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-22` |
+| 0027 | [Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.java) [CPP](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.cpp) | 🟡 Medium | `Linked-List` | `2026-11-22` |
 | 0028 | [397. Diameter of N-ary Tree
 POTD](./DSA/Trees/diameter-of-n-ary-tree) | [JAVA](./DSA/Trees/diameter-of-n-ary-tree/solution.java) | 🟡 Medium | `Trees` | `2026-10-31` |
 | 0029 | [Divisors of a Number](./DSA/Beginner-Problems/divisors-of-a-number) | [JAVA](./DSA/Beginner-Problems/divisors-of-a-number/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-14` |
