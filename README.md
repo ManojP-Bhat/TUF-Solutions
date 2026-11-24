@@ -147,7 +147,8 @@ POTD](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/re
 | 0116 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-11-04` |
 | 0117 | [Search in a 2D Matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🟡 Medium | `Binary-Search` | `2026-11-04` |
 | 0118 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
-| 0119 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-26` |
+| 0119 | [46. Search in rotated sorted array-I
+POTD](./DSA/Arrays/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Arrays` | `2026-11-24` |
 | 0120 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
 | 0121 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-10-25` |
 | 0122 | [Second Highest Occurring Element](./DSA/Beginner-Problems/second-highest-occurring-element) | [JAVA](./DSA/Beginner-Problems/second-highest-occurring-element/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-16` |
