@@ -1,4 +1,4 @@
-# [Insertion at the Kth position of Linked List](https://takeuforward.org/practice/dsa/insertion-at-the-kth-position-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet)
+# [Insertion at the Kth position of Linked List](https://takeuforward.org/practice/dsa/insertion-at-the-kth-position-of-ll?source=strivers-a2z-dsa-sheet&category=fundamentals-single-ll)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
