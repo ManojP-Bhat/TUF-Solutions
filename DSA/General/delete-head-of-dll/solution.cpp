@@ -22,6 +22,7 @@ public:
         head=head->next;
         head->prev=nullptr;
         prev->next=nullptr;
+        delete prev;
         return head;
 
     }
