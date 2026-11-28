@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **175** | 49 | 113 | 13 | `2026-11-27` |
+| **175** | 49 | 113 | 13 | `2026-11-28` |
 
 ---
 
@@ -47,7 +47,7 @@ POTD](./DSA/General/count-of-prime-numbers-till-n) | [JAVA](./DSA/General/count-
 | 0025 | [163. Count subarrays with given xor K
 POTD](./DSA/Hashing/count-subarrays-with-given-xor-k) | [JAVA](./DSA/Hashing/count-subarrays-with-given-xor-k/solution.java) | 🔴 Hard | `Hashing` | `2026-10-23` |
 | 0026 | [879. Delete head of Doubly Linked List](./DSA/General/delete-head-of-dll) | [CPP](./DSA/General/delete-head-of-dll/solution.cpp) [JAVA](./DSA/General/delete-head-of-dll/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-27` |
-| 0027 | [892. Delete Tail of Doubly Linked List](./DSA/General/delete-tail-of-dll) | [JAVA](./DSA/General/delete-tail-of-dll/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-27` |
+| 0027 | [Delete Tail of Doubly Linked List](./DSA/Linked-List/delete-tail-of-dll) | [JAVA](./DSA/Linked-List/delete-tail-of-dll/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-28` |
 | 0028 | [Delete the element with value X](./DSA/Linked-List/delete-the-element-with-value-x) | [JAVA](./DSA/Linked-List/delete-the-element-with-value-x/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-22` |
 | 0029 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.cpp) [JAVA](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-22` |
 | 0030 | [Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.cpp) [JAVA](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-11-22` |
